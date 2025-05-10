@@ -2,7 +2,7 @@
 
 ### 📷 Live Snapshot
 
-![Snapshot](https://github.com/Kritchanaxt/ScannerDocumentsApp/blob/main/snapshot.PNG)
+<img src="https://github.com/Kritchanaxt/ScannerDocumentsApp/blob/main/snapshot.PNG" width="450" />
 
 ### 🎞️ Document Scanning in Action
 
